@@ -8,21 +8,7 @@ let sources = [
 'img/ZHH HOLDING_Page_07.jpg',
 'img/ZHH HOLDING_Page_08.jpg',
 'img/ZHH HOLDING_Page_09.jpg',
-'img/ZHH HOLDING_Page_10.jpg',
-'img/ZHH HOLDING_Page_11.jpg',
-'img/ZHH HOLDING_Page_12.jpg',
-'img/ZHH HOLDING_Page_13.jpg',
-'img/ZHH HOLDING_Page_14.jpg',
-'img/ZHH HOLDING_Page_15.jpg',
-'img/ZHH HOLDING_Page_16.jpg',
-'img/ZHH HOLDING_Page_17.jpg',
-'img/ZHH HOLDING_Page_18.jpg',
-'img/ZHH HOLDING_Page_19.jpg',
-'img/ZHH HOLDING_Page_20.jpg',
-'img/ZHH HOLDING_Page_21.jpg',
-'img/ZHH HOLDING_Page_22.jpg',
-'img/ZHH HOLDING_Page_23.jpg',
-'img/ZHH HOLDING_Page_24.jpg'];
+'img/ZHH HOLDING_Page_10.jpg'];
 
 
 let imgTag,
